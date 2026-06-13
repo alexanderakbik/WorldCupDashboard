@@ -1,0 +1,8570 @@
+[
+  {
+    "match_id": 0,
+    "teamA": "Mexico",
+    "teamB": "South Africa",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 1,
+    "teamA": "South Korea",
+    "teamB": "Czechia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 2,
+    "teamA": "Canada",
+    "teamB": "Bosnia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 4
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 3,
+    "teamA": "USA",
+    "teamB": "Paraguay",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 50,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 4,
+    "teamA": "Qatar",
+    "teamB": "Switzerland",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 4,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      }
+    }
+  },
+  {
+    "match_id": 5,
+    "teamA": "Brazil",
+    "teamB": "Morocco",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 4,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 4,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 6,
+    "teamA": "Haiti",
+    "teamB": "Scotland",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 4
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      }
+    }
+  },
+  {
+    "match_id": 7,
+    "teamA": "Australia",
+    "teamB": "T\u00fcrkiye",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      }
+    }
+  },
+  {
+    "match_id": 8,
+    "teamA": "Germany",
+    "teamB": "Cura\u00e7ao",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 7,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 4,
+        "teamB_score": 5
+      },
+      "Jonathan": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 5,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 6,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 9,
+    "teamA": "Netherlands",
+    "teamB": "Japan",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 4,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 10,
+    "teamA": "Ivory Coast",
+    "teamB": "Ecuador",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 11,
+    "teamA": "Sweden",
+    "teamB": "Tunisia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 12,
+    "teamA": "Spain",
+    "teamB": "Cape Verde",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 6,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 6,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 6,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Jonah": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 13,
+    "teamA": "Belgium",
+    "teamB": "Egypt",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 5,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 14,
+    "teamA": "Saudi Arabia",
+    "teamB": "Uruguay",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 15,
+    "teamA": "Iran",
+    "teamB": "New Zealand",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 16,
+    "teamA": "France",
+    "teamB": "Senegal",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 4,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 4,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 17,
+    "teamA": "Iraq",
+    "teamB": "Norway",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 4
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 18,
+    "teamA": "Argentina",
+    "teamB": "Algeria",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Ester": {
+        "teamA_score": 5,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 19,
+    "teamA": "Austria",
+    "teamB": "Jordan",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 20,
+    "teamA": "Portugal",
+    "teamB": "DR Congo",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 21,
+    "teamA": "England",
+    "teamB": "Croatia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 4,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 22,
+    "teamA": "Ghana",
+    "teamB": "Panama",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 23,
+    "teamA": "Uzbekistan",
+    "teamB": "Colombia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Peter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 4
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      }
+    }
+  },
+  {
+    "match_id": 24,
+    "teamA": "Czechia",
+    "teamB": "South Africa",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 5,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 25,
+    "teamA": "Switzerland",
+    "teamB": "Bosnia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 26,
+    "teamA": "Canada",
+    "teamB": "Qatar",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 27,
+    "teamA": "Mexico",
+    "teamB": "South Korea",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 28,
+    "teamA": "USA",
+    "teamB": "Australia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 29,
+    "teamA": "Scotland",
+    "teamB": "Morocco",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 30,
+    "teamA": "Brazil",
+    "teamB": "Haiti",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 6,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 6,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 6,
+        "teamB_score": 0
+      },
+      "Ester": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 31,
+    "teamA": "T\u00fcrkiye",
+    "teamB": "Paraguay",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 32,
+    "teamA": "Netherlands",
+    "teamB": "Sweden",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 4,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 33,
+    "teamA": "Germany",
+    "teamB": "Ivory Coast",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 34,
+    "teamA": "Ecuador",
+    "teamB": "Cura\u00e7ao",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 35,
+    "teamA": "Tunisia",
+    "teamB": "Japan",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 36,
+    "teamA": "Spain",
+    "teamB": "Saudi Arabia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 37,
+    "teamA": "Belgium",
+    "teamB": "Iran",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 38,
+    "teamA": "Uruguay",
+    "teamB": "Cape Verde",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 5,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 39,
+    "teamA": "New Zealand",
+    "teamB": "Egypt",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 40,
+    "teamA": "Argentina",
+    "teamB": "Austria",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 41,
+    "teamA": "France",
+    "teamB": "Iraq",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 6,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Jonah": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 42,
+    "teamA": "Norway",
+    "teamB": "Senegal",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 43,
+    "teamA": "Jordan",
+    "teamB": "Algeria",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 44,
+    "teamA": "Portugal",
+    "teamB": "Uzbekistan",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 5,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 45,
+    "teamA": "England",
+    "teamB": "Ghana",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 46,
+    "teamA": "Panama",
+    "teamB": "Croatia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 4
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      }
+    }
+  },
+  {
+    "match_id": 47,
+    "teamA": "Colombia",
+    "teamB": "DR Congo",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 48,
+    "teamA": "Switzerland",
+    "teamB": "Canada",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 49,
+    "teamA": "Morocco",
+    "teamB": "Haiti",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 4,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 4,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 50,
+    "teamA": "South Africa",
+    "teamB": "South Korea",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 51,
+    "teamA": "Bosnia",
+    "teamB": "Qatar",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 52,
+    "teamA": "Scotland",
+    "teamB": "Brazil",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 4
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 4
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 4
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 53,
+    "teamA": "Czechia",
+    "teamB": "Mexico",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 54,
+    "teamA": "Cura\u00e7ao",
+    "teamB": "Ivory Coast",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 55,
+    "teamA": "Tunisia",
+    "teamB": "Netherlands",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 4
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 56,
+    "teamA": "T\u00fcrkiye",
+    "teamB": "USA",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Denny": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 57,
+    "teamA": "Ecuador",
+    "teamB": "Germany",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 4
+      }
+    }
+  },
+  {
+    "match_id": 58,
+    "teamA": "Japan",
+    "teamB": "Sweden",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 59,
+    "teamA": "Paraguay",
+    "teamB": "Australia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 60,
+    "teamA": "Norway",
+    "teamB": "France",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      }
+    }
+  },
+  {
+    "match_id": 61,
+    "teamA": "Cape Verde",
+    "teamB": "Saudi Arabia",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Ester": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 62,
+    "teamA": "New Zealand",
+    "teamB": "Belgium",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Maria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 4
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 4
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      }
+    }
+  },
+  {
+    "match_id": 63,
+    "teamA": "Senegal",
+    "teamB": "Iraq",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 64,
+    "teamA": "Uruguay",
+    "teamB": "Spain",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 4
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      }
+    }
+  },
+  {
+    "match_id": 65,
+    "teamA": "Egypt",
+    "teamB": "Iran",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 66,
+    "teamA": "Panama",
+    "teamB": "England",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 5
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Stefan": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 0,
+        "teamB_score": 4
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 4
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Karolina": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      }
+    }
+  },
+  {
+    "match_id": 67,
+    "teamA": "Colombia",
+    "teamB": "Portugal",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 3
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "C\u00e9cile": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Denny": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      }
+    }
+  },
+  {
+    "match_id": 68,
+    "teamA": "Algeria",
+    "teamB": "Austria",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Peter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Nico": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 69,
+    "teamA": "Croatia",
+    "teamB": "Ghana",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Joop": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Hannah": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 3,
+        "teamB_score": 3
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Max": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Wouter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Maria": {
+        "teamA_score": 3,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Babak": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      }
+    }
+  },
+  {
+    "match_id": 70,
+    "teamA": "DR Congo",
+    "teamB": "Uzbekistan",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Katie": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Joop": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Tim": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Stefan": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Hannah": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Niki": {
+        "teamA_score": 2,
+        "teamB_score": 2
+      },
+      "Marco": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Nico": {
+        "teamA_score": 3,
+        "teamB_score": 0
+      },
+      "Max": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Alexandros": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Ester": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Jonathan": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Wouter": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "C\u00e9cile": {
+        "teamA_score": 2,
+        "teamB_score": 1
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 1
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Eldad": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Pouria": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 0
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonah": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Karolina": {
+        "teamA_score": 1,
+        "teamB_score": 0
+      },
+      "Diana": {
+        "teamA_score": 1,
+        "teamB_score": 2
+      },
+      "Danielle": {
+        "teamA_score": 2,
+        "teamB_score": 0
+      },
+      "Tilko": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      }
+    }
+  },
+  {
+    "match_id": 71,
+    "teamA": "Jordan",
+    "teamB": "Argentina",
+    "predictions": {
+      "Faizal": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Katie": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Joop": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Tim": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Stefan": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Hannah": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Peter": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Niki": {
+        "teamA_score": 1,
+        "teamB_score": 5
+      },
+      "Marco": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Nico": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Max": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Alexandros": {
+        "teamA_score": 0,
+        "teamB_score": 6
+      },
+      "Ester": {
+        "teamA_score": 1,
+        "teamB_score": 1
+      },
+      "Jonathan": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Wouter": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "C\u00e9cile": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Maria": {
+        "teamA_score": 1,
+        "teamB_score": 4
+      },
+      "Denny": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Jip": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Eldad": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Pouria": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      },
+      "Adina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Babak": {
+        "teamA_score": 1,
+        "teamB_score": 3
+      },
+      "Jonah": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Karolina": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Diana": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Danielle": {
+        "teamA_score": 0,
+        "teamB_score": 3
+      },
+      "Tilko": {
+        "teamA_score": 0,
+        "teamB_score": 2
+      }
+    }
+  }
+]

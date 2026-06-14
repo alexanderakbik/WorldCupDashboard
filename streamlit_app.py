@@ -203,13 +203,18 @@ if predictions and real_results:
         st.header("Point Progression Race")
         if progression_data:
             df_prog = pd.DataFrame(progression_data)
-            # Create a line chart
+            player_selection = alt.selection_point(
+                fields=["Player"],
+                bind="legend",
+                toggle=True,
+            )
             line_chart = alt.Chart(df_prog).mark_line(point=True).encode(
                 x=alt.X('Match ID:O', title='Matches (Chronological)'),
                 y=alt.Y('Cumulative Points:Q', title='Points'),
                 color=alt.Color('Player:N', sort=player_names_sorted),
-                tooltip=['Player', 'Match', 'Cumulative Points']
-            ).properties(height=500)
+                opacity=alt.condition(player_selection, alt.value(1), alt.value(0.08)),
+                tooltip=['Player', 'Match', 'Cumulative Points'],
+            ).add_params(player_selection).properties(height=500)
             st.altair_chart(line_chart, use_container_width=True)
         else:
             st.info("No progression data available yet.")

@@ -59,9 +59,9 @@
     "match_id": 4,
     "teamA": "Qatar",
     "teamB": "Switzerland",
-    "scoreA": null,
-    "scoreB": null,
-    "played": false
+    "scoreA": 1,
+    "scoreB": 1,
+    "played": true
   },
   {
     "match_id": 25,
@@ -99,17 +99,17 @@
     "match_id": 5,
     "teamA": "Brazil",
     "teamB": "Morocco",
-    "scoreA": null,
-    "scoreB": null,
-    "played": false
+    "scoreA": 1,
+    "scoreB": 1,
+    "played": true
   },
   {
     "match_id": 6,
     "teamA": "Haiti",
     "teamB": "Scotland",
-    "scoreA": null,
-    "scoreB": null,
-    "played": false
+    "scoreA": 0,
+    "scoreB": 1,
+    "played": true
   },
   {
     "match_id": 29,
@@ -155,9 +155,9 @@
     "match_id": 7,
     "teamA": "Australia",
     "teamB": "Turkey",
-    "scoreA": null,
-    "scoreB": null,
-    "played": false
+    "scoreA": 2,
+    "scoreB": 0,
+    "played": true
   },
   {
     "match_id": 28,

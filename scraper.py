@@ -1,95 +1,80 @@
 import json
-import requests
 import re
+from pathlib import Path
+
+import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+
+
+BASE_DIR = Path(__file__).resolve().parent
+WIKIPEDIA_URL = "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+
+
+def normalize_name(name):
+    name = name.lower()
+    name = name.replace("republic", "")
+    name = name.replace("czechia", "czech")
+    name = name.replace("united states", "usa")
+    name = name.replace("bosnia and herzegovina", "bosnia")
+    name = name.replace("turkey", "türkiye")
+    return name.strip()
+
 
 def scrape_world_cup_results():
-    url = 'https://en.wikipedia.org/wiki/2026_FIFA_World_Cup'
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    
+    response = requests.get(
+        WIKIPEDIA_URL,
+        headers={"User-Agent": "WorldCupDashboard/1.0"},
+        timeout=20,
+    )
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+
     results = []
-    
-    try:
-        response = requests.get(url, headers=headers)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # In Wikipedia, football matches are often in tables with class 'footballbox'
-        matches = soup.find_all('div', class_='footballbox')
-        
-        match_id = 0
-        for match in matches:
-            try:
-                teamA = match.find('th', class_='fhome').get_text(strip=True)
-                teamB = match.find('th', class_='faway').get_text(strip=True)
-                score_text = match.find('th', class_='fscore').get_text(strip=True)
-                
-                # Check if score is available (e.g. "2–1")
-                # Sometimes it says "Match 1" if not played yet.
-                scoreA = None
-                scoreB = None
-                
-                if '–' in score_text: # en dash used in wiki
-                    parts = score_text.split('–')
-                    if len(parts) == 2 and parts[0].strip().isdigit() and parts[1].strip().isdigit():
-                        scoreA = int(parts[0].strip())
-                        scoreB = int(parts[1].strip())
-                elif '-' in score_text:
-                    parts = score_text.split('-')
-                    if len(parts) == 2 and parts[0].strip().isdigit() and parts[1].strip().isdigit():
-                        scoreA = int(parts[0].strip())
-                        scoreB = int(parts[1].strip())
-                        
-                results.append({
-                    'match_id': match_id,
-                    'teamA': teamA,
-                    'teamB': teamB,
-                    'scoreA': scoreA,
-                    'scoreB': scoreB,
-                    'played': scoreA is not None and scoreB is not None
-                })
-                match_id += 1
-            except Exception as e:
-                continue
-                
-    except Exception as e:
-        print("Error scraping Wikipedia:", e)
+    for match in soup.find_all("div", class_="footballbox"):
+        home = match.find("th", class_="fhome")
+        away = match.find("th", class_="faway")
+        score = match.find("th", class_="fscore")
+        if not home or not away or not score:
+            continue
 
-    # Map against predictions.json
-    try:
-        with open('predictions.json', 'r') as f:
-            preds = json.load(f)
-            
-        def normalize_name(name):
-            name = name.lower()
-            name = name.replace('republic', '')
-            name = name.replace('czechia', 'czech')
-            name = name.replace('united states', 'usa')
-            name = name.replace('bosnia and herzegovina', 'bosnia')
-            name = name.replace('turkey', 'türkiye')
-            return name.strip()
-            
-        pred_dict = {
-            tuple(sorted([normalize_name(p['teamA']), normalize_name(p['teamB'])])): p['match_id']
-            for p in preds
-        }
-        
-        mapped_results = []
-        for r in results:
-            key = tuple(sorted([normalize_name(r['teamA']), normalize_name(r['teamB'])]))
-            if key in pred_dict:
-                r['match_id'] = pred_dict[key]
-                mapped_results.append(r)
-                
-        results = mapped_results
-    except Exception as e:
-        print("Could not map to predictions.json:", e)
+        score_match = re.fullmatch(r"\s*(\d+)\s*[–-]\s*(\d+)\s*", score.get_text())
+        score_a = int(score_match.group(1)) if score_match else None
+        score_b = int(score_match.group(2)) if score_match else None
+        results.append(
+            {
+                "teamA": home.get_text(strip=True),
+                "teamB": away.get_text(strip=True),
+                "scoreA": score_a,
+                "scoreB": score_b,
+                "played": score_match is not None,
+            }
+        )
 
-    # Save to real_results.json
-    with open('real_results.json', 'w') as f:
-        json.dump(results, f, indent=2)
-        
-    print(f"Scraped and mapped {len(results)} matches from Wikipedia.")
+    with (BASE_DIR / "predictions.json").open() as file:
+        predictions = json.load(file)
 
-if __name__ == '__main__':
-    scrape_world_cup_results()
+    match_ids = {
+        tuple(sorted((normalize_name(p["teamA"]), normalize_name(p["teamB"])))): p["match_id"]
+        for p in predictions
+    }
+    mapped_results = []
+    for result in results:
+        key = tuple(sorted((normalize_name(result["teamA"]), normalize_name(result["teamB"]))))
+        if key in match_ids:
+            result["match_id"] = match_ids[key]
+            mapped_results.append(result)
+
+    if not mapped_results:
+        raise RuntimeError("Wikipedia returned no results matching predictions.json.")
+    return mapped_results
+
+
+def save_results(results, path=BASE_DIR / "real_results.json"):
+    with Path(path).open("w") as file:
+        json.dump(results, file, indent=2)
+
+
+if __name__ == "__main__":
+    latest_results = scrape_world_cup_results()
+    save_results(latest_results)
+    print(f"Scraped and mapped {len(latest_results)} matches from Wikipedia.")

@@ -1,7 +1,12 @@
 import streamlit as st
 import pandas as pd
 import json
-import subprocess
+from pathlib import Path
+
+from scraper import scrape_world_cup_results
+
+
+BASE_DIR = Path(__file__).resolve().parent
 
 def calculate_points(predicted_a, predicted_b, actual_a, actual_b):
     if predicted_a == actual_a and predicted_b == actual_b:
@@ -22,10 +27,12 @@ def calculate_points(predicted_a, predicted_b, actual_a, actual_b):
 
 def load_data():
     try:
-        with open('predictions.json', 'r') as f:
+        with (BASE_DIR / 'predictions.json').open() as f:
             predictions = json.load(f)
-        with open('real_results.json', 'r') as f:
-            real_results = json.load(f)
+        real_results = st.session_state.get("real_results")
+        if real_results is None:
+            with (BASE_DIR / 'real_results.json').open() as f:
+                real_results = json.load(f)
         return predictions, real_results
     except FileNotFoundError:
         st.error("Could not find predictions.json or real_results.json. Make sure to run scraper.py first.")
@@ -38,8 +45,13 @@ col1, col2 = st.columns([4, 1])
 with col2:
     if st.button("🔄 Fetch Latest Results"):
         with st.spinner("Scraping Wikipedia for latest results..."):
-            subprocess.run(["python3", "scraper.py"])
-            st.rerun()
+            try:
+                st.session_state["real_results"] = scrape_world_cup_results()
+            except Exception as exc:
+                st.error(f"Could not fetch latest results: {exc}")
+            else:
+                st.success("Latest results fetched.")
+                st.rerun()
 
 predictions, real_results = load_data()
 

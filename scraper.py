@@ -17,6 +17,7 @@ def normalize_name(name):
     name = name.replace("united states", "usa")
     name = name.replace("bosnia and herzegovina", "bosnia")
     name = name.replace("turkey", "türkiye")
+    name = name.replace("cabo verde", "cape verde")
     return name.strip()
 
 
@@ -37,7 +38,7 @@ def scrape_world_cup_results():
         if not home or not away or not score:
             continue
 
-        score_match = re.fullmatch(r"\s*(\d+)\s*[–-]\s*(\d+)\s*", score.get_text())
+        score_match = re.match(r"\s*(\d+)\s*[–-]\s*(\d+)", score.get_text())
         score_a = int(score_match.group(1)) if score_match else None
         score_b = int(score_match.group(2)) if score_match else None
         results.append(

@@ -9,6 +9,9 @@ from scraper import scrape_world_cup_results
 BASE_DIR = Path(__file__).resolve().parent
 
 def calculate_points(predicted_a, predicted_b, actual_a, actual_b):
+    if predicted_a is None or predicted_b is None:
+        return 0
+        
     if predicted_a == actual_a and predicted_b == actual_b:
         return 3
     
@@ -89,8 +92,11 @@ if predictions and real_results:
             # Count bets for Feature 9 (Most Common Bet)
             bet_counts = {}
             for player, p_scores in preds.items():
-                p_str = f"{p_scores['teamA_score']} - {p_scores['teamB_score']}"
-                bet_counts[p_str] = bet_counts.get(p_str, 0) + 1
+                p_a = p_scores['teamA_score']
+                p_b = p_scores['teamB_score']
+                if p_a is not None and p_b is not None:
+                    p_str = f"{p_a} - {p_b}"
+                    bet_counts[p_str] = bet_counts.get(p_str, 0) + 1
             
             most_common_bet = max(bet_counts, key=bet_counts.get) if bet_counts else "None"
             pct_common = (bet_counts.get(most_common_bet, 0) / len(preds)) * 100 if preds else 0
@@ -105,7 +111,7 @@ if predictions and real_results:
             for player, p_scores in preds.items():
                 p_a = p_scores['teamA_score']
                 p_b = p_scores['teamB_score']
-                predicted_str = f"{p_a} - {p_b}"
+                predicted_str = f"{p_a} - {p_b}" if (p_a is not None and p_b is not None) else "No Bet"
                 
                 points = calculate_points(p_a, p_b, actual_a, actual_b)
                 player_points[player] += points
@@ -128,9 +134,14 @@ if predictions and real_results:
                 
                 # Determine outcome type for nicer visuals
                 outcome_type = "Wrong"
-                if points == 3: outcome_type = "Exact Score"
-                elif points == 2: outcome_type = "Exact Goal Diff"
-                elif points == 1: outcome_type = "Right Winner"
+                if p_a is None or p_b is None:
+                    outcome_type = "No Bet"
+                elif points == 3:
+                    outcome_type = "Exact Score"
+                elif points == 2:
+                    outcome_type = "Exact Goal Diff"
+                elif points == 1:
+                    outcome_type = "Right Winner"
                 
                 player_match_details[player].append({
                     "Match": match_label,
@@ -248,8 +259,8 @@ if predictions and real_results:
                 pie_chart = alt.Chart(outcome_counts).mark_arc(innerRadius=50).encode(
                     theta=alt.Theta(field="Count", type="quantitative"),
                     color=alt.Color(field="Outcome", type="nominal", 
-                        scale=alt.Scale(domain=['Exact Score', 'Exact Goal Diff', 'Right Winner', 'Wrong'],
-                                        range=['#2ca02c', '#1f77b4', '#ff7f0e', '#d62728'])),
+                        scale=alt.Scale(domain=['Exact Score', 'Exact Goal Diff', 'Right Winner', 'Wrong', 'No Bet'],
+                                        range=['#2ca02c', '#1f77b4', '#ff7f0e', '#d62728', '#7f7f7f'])),
                     tooltip=['Outcome', 'Count']
                 ).properties(height=350)
                 st.altair_chart(pie_chart, use_container_width=True)
